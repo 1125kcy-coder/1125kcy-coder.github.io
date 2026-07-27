@@ -328,3 +328,56 @@ a { color: inherit; }
   .actions .button { width: 100%; }
   .footer-grid { align-items: flex-start; flex-direction: column; }
 }
+.award-links{
+    margin-top:18px;
+}
+
+.link-dropdown{
+    margin-top:12px;
+}
+
+.link-dropdown summary{
+
+    cursor:pointer;
+
+    color:#6d4c41;
+
+    font-weight:600;
+
+    list-style:none;
+
+    transition:.2s;
+
+}
+
+.link-dropdown summary:hover{
+
+    color:#8b5e3c;
+
+}
+
+.link-dropdown ul{
+
+    margin-top:10px;
+
+    margin-left:18px;
+
+}
+
+.link-dropdown li{
+
+    margin:8px 0;
+
+}
+
+.link-dropdown a{
+
+    text-decoration:none;
+
+}
+
+.link-dropdown a:hover{
+
+    text-decoration:underline;
+
+}
