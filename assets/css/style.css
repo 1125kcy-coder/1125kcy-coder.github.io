@@ -385,7 +385,35 @@ a { color: inherit; }
     color:#6d4c41;
 
 }
+.link-btn{
 
+    display:inline-block;
+
+    padding:8px 18px;
+
+    border:1px solid #d3b792;
+
+    border-radius:8px;
+
+    background:#fffaf5;
+
+    color:#6d4c41;
+
+    text-decoration:none;
+
+    font-weight:600;
+
+    transition:.2s;
+
+}
+
+.link-btn:hover{
+
+    background:#6d4c41;
+
+    color:#ffffff;
+
+}
 .link-list a:hover{
 
     text-decoration:underline;
