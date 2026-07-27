@@ -419,3 +419,7 @@ a { color: inherit; }
     text-decoration:underline;
 
 }
+.link-btn{
+    display:inline-block;
+    text-decoration:none;
+}
