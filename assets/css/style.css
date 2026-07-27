@@ -401,3 +401,19 @@ a { color: inherit; }
 .instagram-btn{
     min-width:220px;
 }
+.language-card{
+    padding:18px;
+    min-height:150px;
+}
+
+.language-card h3{
+    font-size:1.1rem;
+}
+
+.language-level{
+    font-size:0.9rem;
+}
+
+.language-card p{
+    font-size:0.85rem;
+}
